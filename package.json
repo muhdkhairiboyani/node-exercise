@@ -1,0 +1,31 @@
+{
+  "name": "node-js-exercise",
+  "version": "1.0.0",
+  "description": "exercise using nodejs with express and axios dependencies",
+  "keywords": [
+    "express",
+    "axios"
+  ],
+  "homepage": "https://github.com/muhdkhairiboyani/node-exercise#readme",
+  "bugs": {
+    "url": "https://github.com/muhdkhairiboyani/node-exercise/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhdkhairiboyani/node-exercise.git"
+  },
+  "license": "ISC",
+  "author": "Khairi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
